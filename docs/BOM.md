@@ -25,13 +25,13 @@ D31     | AT28C256  | 1         |
 D33     | XP POWER IW2405SA | 1 | or similar
 D34     | XP POWER JTF1024S05 | 1 | or similar
 D35     | XP POWER JTF1024S12 | 1 | or similar
-n/a | Socket DIL08 300mil | 2 | optional by recommended
-n/a | Socket DIL14 300mil | 6 | optional by recommended
-n/a | Socket DIL16 300mil | 2 | optional by recommended
-n/a | Socket DIL24 600mil | 3 | optional by recommended
-n/a | Socket DIL28 300mil | 1 | optional by recommended
-n/a | Socket DIL28 600mil | 3 | optional by recommended
-n/a | Socket DIL40 600mil | 5 | optional by recommended
+n/a | Socket DIL08 300mil | 2 | optional but recommended
+n/a | Socket DIL14 300mil | 6 | optional but recommended
+n/a | Socket DIL16 300mil | 2 | optional but recommended
+n/a | Socket DIL24 600mil | 3 | optional but recommended
+n/a | Socket DIL28 300mil | 1 | optional but recommended
+n/a | Socket DIL28 600mil | 3 | optional but recommended
+n/a | Socket DIL40 600mil | 5 | optional but recommended
 P14, P20| 2.54mm 2x13 box header, right angle | 2 | 	 
 TAPE_IN,TAPE_OUT,VIDEO_OUT | LUMBERG WBTOR RCA connector | 2 | obsolete
 DIN1    | Mini-DIN 6-way    | 1 |
