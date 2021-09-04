@@ -16,7 +16,7 @@ Scroll Lock key will switch between two layouts. Scroll Lock indicator will show
 
 ### Radio-86RK matrix layout
 
-    | D7 | D6 | D5 | D4 | D3 | D2 | D1 | D0
+ A   | D7 | D6 | D5 | D4 | D3 | D2 | D1 | D0
  --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---
  A7 | SP | ^  | ]  | \  | [  | Z  | Y  | X
  A6 | W  | V  | U  | T  | S  | R  | Q  | P
