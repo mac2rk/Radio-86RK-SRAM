@@ -29,7 +29,7 @@ The principal motivation behind this project was to replace the obsolete 1-bit D
   * Display: 64x25 alphanumeric monochrome (50Hz composite video output suitable for TV)
   * Keyboard: Proprietary 66-key (parallel interface) or any standard PS/2 (with built-in adapter)
   * Sound: 1-bit digital
-  * I/O: Cassette tape recorder (use [mac2rk(https://github.com/mac2rk/mac2rk) to emulate tape)
+  * I/O: Cassette tape recorder (use [mac2rk](https://github.com/mac2rk/mac2rk) to emulate tape)
   * Expansion: optional parallel port (required for ROM cartridges) 
   * Software: 2KiB ROM monitor; additional software can be loaded from a ROM cartridge or tape
   * Form factor: Mini-ITX (170x170 mm, 6.7x6.7 inch)
