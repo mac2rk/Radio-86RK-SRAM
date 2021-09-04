@@ -42,14 +42,14 @@ R1  | Resistor 2kOhm 1/4W | 1 |
 R3, R15, R17, R32, R33 | Resistor 1kOhm 1/4W |	5 | 	 
 R4, R5, R104 | Resistor array 5x4.7kOhm | 3 | bus topology	 
 R6-R12  | Resistor array 7x10kOhm |	1 | bus topology
-R16     | Resistor 680Ohm 1/4W | 1 |
-R18     | Resistor 51Ohm 1/4W | 1 | 	 
-R19     | Resistor 150Ohm  1/4W | 1 | 	 
-R29     | Resistor 12kOhm 1/4W | 1 | 	 
-R30     | Resistor 2.4kOhm 1/4W | 1 | 	 
-R31, R101, R103, R110, R111 | Resistor 330Ohm 1/4W | 6 | 	 
-R109    | Resistor 1.1kOhm 1/4W | 1 |  	  	 
-R107, R108 | Resistor 10kOhm 1/4W | 2 | 	 
+R16     | Resistor 680 Ohm 1/4W | 1 |
+R18     | Resistor 51 Ohm 1/4W | 1 | 	 
+R19     | Resistor 150 Ohm  1/4W | 1 | 	 
+R29     | Resistor 12 kOhm 1/4W | 1 | 	 
+R30     | Resistor 2.4 kOhm 1/4W | 1 | 	 
+R31, R101, R103, R110, R111 | Resistor 330 Ohm 1/4W | 6 | 	 
+R109    | Resistor 1.1 kOhm 1/4W | 1 |  	  	 
+R107, R108 | Resistor 10 kOhm 1/4W | 2 | 	 
 C2 	    | Capacitor ceramic 0.47uF LS=5mm |	1 | 	 
 C3 	    | Capacitor electrolytic 22..47uF LS=2.5mm | 1 | 	 
 C4 	    | Capacitor ceramic 22nF LS=5mm | 1 | 	 
@@ -63,8 +63,8 @@ VT2     | 2N3904 | 1 |
 TVS1    | TVS 24V | 1 | 	 
 F1      | PTC fuse 0.5A LS=5mm  | 1 | 	 
 H1      | Piezo speaker LS=10mm | 1 | 	 
-Z1      | Crystal 18.432МГц, HC-49 | 1 | 	 
-PIXEL_CLK |	Oscillator TTL/HCMOS 16МГц, DIL8 | 1 | 	 
+Z1      | Crystal 18.432Mhz, HC-49 | 1 | 	 
+PIXEL_CLK |	Oscillator TTL/HCMOS 16Mhz, DIL8 | 1 | 	 
 RESET   | TACT momentary button | 1 | 	 
 
 Comments:
