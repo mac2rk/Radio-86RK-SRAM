@@ -1,5 +1,6 @@
 # Radio-86RK SRAM
 The 2012 remake of the 1986 DIY 8-bit computer
+
 ![Radio 86RK SRAM](images/Radio-86RK-SRAM_Assembled.jpg)
 
 ## Contents
