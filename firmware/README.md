@@ -17,7 +17,7 @@ Scroll Lock key will switch between two layouts. Scroll Lock indicator will show
 ### Radio-86RK matrix layout
 
     | D7 | D6 | D5 | D4 | D3 | D2 | D1 | D0
- ---|----|----|----|----|----|----|----|---
+ --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---
  A7 | SP | ^  | ]  | \  | [  | Z  | Y  | X
  A6 | W  | V  | U  | T  | S  | R  | Q  | P
  A5 | O  | N  | M  | L  | K  | J  | I  | H
@@ -32,7 +32,7 @@ Scroll Lock key will switch between two layouts. Scroll Lock indicator will show
 The default Fuse and Lock bits for an ATmega48 are as follows:
 
 Lock(&Fuse) | Fuse(Low)  | Fuse(High)    | Fuse(Ext)
-------------|------------|---------------|------------------
+------------ | ------------ | --------------- | ------------------
 [v] LB1     | [ ] CKSEL0 | [v] BODLEVEL0 | [v] SELFPRGEN
 [v] LB2     | [v] CKSEL1 | [v] BODLEVEL1 | [v] -
 [v] BLB01   | [ ] CKSEL2 | [v] BODLEVEL2 | [v] -
@@ -49,7 +49,7 @@ You need to change:
 The result should look like:
 
 Lock(&Fuse) | Fuse(Low)  | Fuse(High)    | Fuse(Ext)
-------------|------------|---------------|------------------
+------------ | ------------ | --------------- | ------------------
 [v] LB1     | [ ] CKSEL0 | [ ] BODLEVEL0 | [v] SELFPRGEN
 [v] LB2     | [v] CKSEL1 | [ ] BODLEVEL1 | [v] -
 [v] BLB01   | [ ] CKSEL2 | [v] BODLEVEL2 | [v] -
