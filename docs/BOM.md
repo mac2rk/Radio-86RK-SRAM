@@ -71,8 +71,8 @@ Comments:
 * Logic can be TTL (e.g. 74198N) or from LS/ALS/HCT familes
 * Opamp (D21) can be any single opamp rated for +/-5V operation
 * Opamp (D32) can be any single opamp rated for 12..24V single supply operation
-* For D30, any of ATmega48/88/168/328 can be used можно использовать, but not that 48/88 have different firmware from 168/328
-* DC/DC moduled can be replaced with equivalents, provided that the @Enable@ pin is connected correctly.
-* Resistor arrays can be anything with bus topology (e.g. one commpon pin) with the value between 4..20kOhm.Bourns 4308R-101 and 4306R-101 are sutbale examples. 
+* For D30, any of ATmega48/88/168/328 can be used, but note that 48/88 have different firmware from 168/328
+* DC/DC moduled can be replaced with equivalents, provided that the @Enable pin is connected correctly.
+* Resistor arrays can be anything with bus topology (e.g. one common pin) with the value between 4..20kOhm. Bourns 4308R-101 and 4306R-101 are sutbale examples. 
 * R109's value on the schetic and silk screen is wrong - it should be 1 to 1.5kOhm.
 * LUMBERG WBTOR RCA connectors are obsolete and no longer manufactured. Consider using offboard connectors or amending the board design for the connectors that are available.
