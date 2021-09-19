@@ -52,7 +52,7 @@ The computer is built around an Intel i8080 CPU (D6 on the schematic) with i8224
 ### Memory Map
 [Memory Map](docs/Memory_map.md)
 
-## Firmware Documentation documentation
+## Firmware Documentation
 
 ### Monitor
 
